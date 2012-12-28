@@ -1,4 +1,1 @@
-vvhere
-======
-
-Small utility that helps us communicate with people who graduated from the WBI (World Bullshit Institute)
+Simply one of the most important shell scripts ever invented.
